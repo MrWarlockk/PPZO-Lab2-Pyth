@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PPZO-Lab2-Pyth", "PPZO-Lab2-Pyth\PPZO-Lab2-Pyth.pyproj", "{4BCAC5F9-3B54-4824-80A9-6B12865BBEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCAC5F9-3B54-4824-80A9-6B12865BBEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCAC5F9-3B54-4824-80A9-6B12865BBEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6717E205-0D8F-44B4-9A42-440A0CBE6165}
+	EndGlobalSection
+EndGlobal
